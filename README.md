@@ -19,12 +19,16 @@ Este é um jogo de **Batalha Naval** desenvolvido em Java, onde você pode jogar
 ### Como Rodar
 
 1. **Clonar o repositório**:
+   Abra o terminal e exexute
     ```bash
     git clone https://github.com/MHorsford/BatalhaNaval.git
-    cd BatalhaNaval
     ```
+    ![image](https://github.com/user-attachments/assets/5528ea91-c273-46cd-9e6b-e4f66cc8900c)
 
-2. **Compilar e rodar o projeto**:
+    Depois de clonar o repositorio, navegue a usando cd BatalhaNaval/src
+   ![image](https://github.com/user-attachments/assets/40b7dfec-b2da-43e0-82d8-2dc9cd0156c1)
+
+3. **Compilar e rodar o projeto**:
 
     Se você estiver utilizando o **Maven**:
     ```bash
@@ -37,11 +41,14 @@ Este é um jogo de **Batalha Naval** desenvolvido em Java, onde você pode jogar
     ```bash
     javac *.java
     ```
+    ![image](https://github.com/user-attachments/assets/ff21b491-f115-41a8-9fc7-162f205be239)
 
     Em seguida, execute o código:
     ```bash
     java Main
     ```
+    ![image](https://github.com/user-attachments/assets/8b3a7226-be2d-45de-96ce-cae4f4be93dc)
+
 
 ## Estrutura do Projeto
 
