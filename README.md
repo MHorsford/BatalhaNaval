@@ -10,7 +10,7 @@ Este é um jogo de **Batalha Naval** desenvolvido em Java, onde você pode jogar
 ### Instruções de Jogo
 
 1. **Objetivo**: O objetivo do jogo é afundar todos os navios do adversário.
-2. **Jogadores**: Você pode jogar contra a máquina ou contra outro jogador humano.
+2. **Jogadores**: Você pode jogar contra a máquina.
 3. **Tabuleiro**: O jogo utiliza um tabuleiro de 10x10 onde cada jogador posiciona seus navios.
 4. **Navios**: São utilizados navios de tamanhos variados (1, 2, 3, 4 e 5 quadrados). Eles são posicionados aleatoriamente no tabuleiro.
 5. **Ataques**: Em cada turno, o jogador pode atacar uma posição do tabuleiro adversário.
