@@ -50,7 +50,7 @@ Este é um jogo de **Batalha Naval** desenvolvido em Java, onde você pode jogar
     ![image](https://github.com/user-attachments/assets/8b3a7226-be2d-45de-96ce-cae4f4be93dc)
 
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
 O projeto é estruturado da seguinte forma:
 
@@ -69,7 +69,8 @@ O projeto é estruturado da seguinte forma:
 
 ### `Cores`
 - Define as cores usadas para exibir o tabuleiro e os resultados das jogadas (acertos, erros e água).
-
+### Documentação
+[index.html]
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
