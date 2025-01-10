@@ -49,8 +49,20 @@ Este é um jogo de **Batalha Naval** desenvolvido em Java, onde você pode jogar
     ```
     ![image](https://github.com/user-attachments/assets/8b3a7226-be2d-45de-96ce-cae4f4be93dc)
 
+## Testes
+1 - **Realizando alguns movimentos, pode-se ver que alguns ataques acertam a agua, mas a coordenada (0, 5) obtem sucesso
+![image](https://github.com/user-attachments/assets/a2bf1b7e-c815-4c6e-a3b9-9b1c366cfa7e)
 
-### Estrutura do Projeto
+2 - **Realizando uma pequena alteração no codigo, trocamos o valor de true para false, exibindo as embaracações adversarias, para finalizar um jogo rapidamente e mostrar o relatorio (é necessario recompilar após a alteração).
+![image](https://github.com/user-attachments/assets/a3d736ca-f792-48ec-813f-821fd79cb0a4)
+concluído:
+![image](https://github.com/user-attachments/assets/a8bf140c-5eab-4795-9009-aa9c14729a27)
+
+
+
+
+
+## Estrutura do Projeto e documentação
 
 O projeto é estruturado da seguinte forma:
 
