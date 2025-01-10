@@ -70,7 +70,7 @@ O projeto é estruturado da seguinte forma:
 ### `Cores`
 - Define as cores usadas para exibir o tabuleiro e os resultados das jogadas (acertos, erros e água).
 ### Documentação
- - A documentação completa do projeto está disponível [aqui](docs/index.html).
+ - A documentação completa do projeto está disponível [aqui](https://mhorsford.github.io/BatalhaNaval/package-summary.html).
  - Criada apartir do javadoc.
 
 ## Licença
