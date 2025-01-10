@@ -70,7 +70,9 @@ O projeto é estruturado da seguinte forma:
 ### `Cores`
 - Define as cores usadas para exibir o tabuleiro e os resultados das jogadas (acertos, erros e água).
 ### Documentação
-[index.html]
+ - A documentação completa do projeto está disponível [aqui](docs/index.html).
+ - Criada apartir do javadoc.
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
