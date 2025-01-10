@@ -52,6 +52,12 @@ public class Main {
         }
 
         System.out.println("\nO vencedor é: " + vencedor.getNome());
+        /**
+         * Gera o relatório com o desempenho da partida.
+         *
+         * @param jogador1 O jogador humano.
+         * @param maquina A máquina.
+         */
         Relatorio.gerarRelatorio(jogador1, maquina);
     }
 }
