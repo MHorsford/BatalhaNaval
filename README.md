@@ -55,8 +55,7 @@ Este é um jogo de **Batalha Naval** desenvolvido em Java, onde você pode jogar
 
 2 - **Realizando uma pequena alteração no codigo, trocamos o valor de true para false, exibindo as embaracações adversarias, para finalizar um jogo rapidamente e mostrar o relatorio (é necessario recompilar após a alteração).
 ![image](https://github.com/user-attachments/assets/a3d736ca-f792-48ec-813f-821fd79cb0a4)
-concluído:
-![image](https://github.com/user-attachments/assets/a8bf140c-5eab-4795-9009-aa9c14729a27)
+Voce pode conferir o teste [aqui](https://youtu.be/2JaKzF0wyGw)
 
 
 
